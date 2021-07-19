@@ -4,7 +4,7 @@
 
 
 # How To Use
-```npm i peyxw.db```
+```npm i peyxwdb```
 ```const Database = require("peyxw.db")```<br>
 
 For use special file, you can use like this: ```const db = new Database("file")```<br>
